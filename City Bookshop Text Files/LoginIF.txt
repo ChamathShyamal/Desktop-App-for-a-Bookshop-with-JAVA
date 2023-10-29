@@ -1,0 +1,4 @@
+Manager Manager1 Manager
+Cashier Cashier1 Cashier
+Chamath Cashier2 Cashier
+Shyamal Manager2 Manager
